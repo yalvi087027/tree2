@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625209363 source:d:\gg\tree\main.cpp
+	<iostream>
+	<windows.h>
+	<random>
+	<vector>
+
